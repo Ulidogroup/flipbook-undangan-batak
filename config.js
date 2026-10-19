@@ -14,9 +14,11 @@ window.ULIDO_CONFIG = {
   whatsappMessage: 'Halo, saya ingin bertanya tentang undangan ini.',
   mapsUrl: '', // Isi tautan Google Maps (opsional)
   pages: [
-    'assets/pages/01.svg',
-    'assets/pages/02.svg',
-    'assets/pages/03.svg',
-    'assets/pages/04.svg'
+    'assets/pages/Undangan Charles-01.webp',
+    'assets/pages/Undangan Charles-02.webp',
+    'assets/pages/Undangan Charles-03.webp',
+    'assets/pages/Undangan Charles-04.webp',
+    'assets/pages/Undangan Charles-05.webp',
+    'assets/pages/Undangan Charles-06.webp'
   ]
 };
